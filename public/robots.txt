@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://heic2pdf.com/sitemap.xml
+Sitemap: https://heic2pdf.net/sitemap.xml
